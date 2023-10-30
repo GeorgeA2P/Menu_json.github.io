@@ -1,0 +1,34 @@
+{
+    "menuItems": [
+      {
+        "label": "Cuentas",
+        "submenu": [
+          "Cuenta de ahorro en pesos",
+          "Cuenta de ahorro en dólares",
+          "Cuenta de ahorro en euros"
+        ]
+      },
+      {
+        "label": "Inversiones",
+        "submenu": [
+          "Certificado en pesos",
+          "Depósito de dólares o euros a plazo fijo"
+        ]
+      },
+      {
+        "label": "Tarjetas",
+        "submenu": [
+          "Débito",
+          "Crédito"
+        ]
+      },
+      {
+        "label": "Préstamos",
+        "submenu": [
+          "Personal",
+          "Hipotecario",
+          "Vehicular"]
+      }
+    ]
+  }
+  
